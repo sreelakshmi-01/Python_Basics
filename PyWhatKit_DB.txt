@@ -1,0 +1,35 @@
+Date: 30/10/2024
+Time: 11:0
+Phone Number: +917025646867
+Message: Hello, this is a test message from Python!
+--------------------
+Date: 30/10/2024
+Time: 11:9
+Phone Number: +917025646867
+Message: This message is auto-generated.
+--------------------
+Date: 30/10/2024
+Time: 11:12
+Phone Number: +917025646867
+Message: This message is auto-generated.
+--------------------
+Date: 30/10/2024
+Time: 11:16
+Phone Number: +917025646867
+Message: Poi valla pani edukk 😒.
+--------------------
+Date: 30/10/2024
+Time: 11:22
+Phone Number: +918129565096
+Message: This message is auto-generated.
+--------------------
+Date: 30/10/2024
+Time: 12:2
+Phone Number: +918129565096
+Message: Dear Rahul, we've detected unusual activity on your account. Please click the link to verify your transactions: https://i.pinimg.com/564x/44/7a/58/447a5808e2d435321e2eaff871dc110b.jpg
+--------------------
+Date: 30/10/2024
+Time: 12:6
+Phone Number: +919526310726
+Message: Dear Chippy, we've detected unusual activity on your whatsapp account. Please click the link to verify your identity: https://slcyber.io/dark-web-hub/
+--------------------
