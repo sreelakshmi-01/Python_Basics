@@ -9,6 +9,7 @@ for i in range(a):
 print(b)
 
 b.sort()
+
 print(f"Sorted list: {b}")
 print(f"Min: {b[0]}")
 print(f"Max: {b[-1]}")
