@@ -1,4 +1,4 @@
-# To check if a person is eligible for voting
+# To check if a person is eligible for voting or not.
 
 age = int(input("Enter the age: "))
 if age >= 18:
