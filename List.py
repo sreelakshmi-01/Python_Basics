@@ -1,5 +1,6 @@
 a = int(input("Enter the length of list: "))
 b = []
+
 for i in range(a):
     c = int(input("Enter element: "))
     b.append(c)
