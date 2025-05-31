@@ -5,6 +5,7 @@ for i in range(a):
     c = int(input("Enter element: "))
     b.append(c)
     i += 1
+    
 print(b)
 b.sort()
 print(f"Sorted list: {b}")
