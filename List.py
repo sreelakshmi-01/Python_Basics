@@ -7,7 +7,6 @@ for i in range(a):
     i += 1
     
 print(b)
-
 b.sort()
 
 print(f"Sorted list: {b}")
